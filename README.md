@@ -180,7 +180,11 @@ void printEdges(const vector<vector<int>>& graph) {
     }
 }
 ```
-### Пример
+### Пример:
+![скрин](https://github.com/jwwo76/RR/blob/main/image1.png)
+
+#### Матрица смежности была такой:
+![скрин2](image.png)
 
 
 
