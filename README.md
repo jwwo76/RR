@@ -144,7 +144,7 @@ unordered_set<int> findVerticesToRemove(const vector<vector<int>>& graph) {
         verticesToRemove.insert(*cycles.begin());
     }
 
-    return verticesToRemove; // Возвращаем вершины, которые нужно удалить
+    return verticesToRemove;
 }
 ```
 
